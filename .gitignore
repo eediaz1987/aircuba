@@ -1,0 +1,10 @@
+.gitignore
+.idea/
+Line
+Liur
+_headers
+ed
+phpvms.iml
+core/local.config.php
+*.iml
+core/cache/
